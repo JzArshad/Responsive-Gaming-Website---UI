@@ -1,0 +1,350 @@
+@media screen and (max-width: 1024px) {
+    .links-container {
+        width: 72%;
+    }
+
+    .my-slide img {
+        width: 100%;
+    }
+
+    .hero {
+        font-size: 1.3rem;
+        line-height: 2.7rem;
+        top: 100px;
+    }
+
+    .hero button {
+        padding: 0.8rem;
+        width: 220px;
+        font-size: 0.8rem;
+        border-radius: 1.7rem;
+        margin-top: 3rem;
+    }
+
+    .scrolldown {
+        font-size: 14px;
+        margin-top: 3rem;
+    }
+
+    .scrolldown span {
+
+        font-size: 24px;
+    }
+
+    .secondsection h1 {
+        font-size: 2rem;
+        line-height: 2rem;
+    }
+
+    /* Fourth Section starts here*/
+    .we-best h1 {
+        font-size: 1.5rem;
+    }
+
+    /* Fourth Section Ends */
+
+    /* Sixth Section Starts Here */
+
+    .explore-new h4 {
+        color: #F68E5F;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 13.8px;
+        /* margin-top: 2.5rem; */
+    }
+
+    .explore-new h1 {
+        color: #FFFFFF;
+        font-size: 33px;
+        font-weight: 600;
+        line-height: 40px;
+    }
+
+    /* Sith Section Ends Here */
+}
+
+@media screen and (max-width: 768px) {
+    .links-container {
+        display: none;
+    }
+
+    .my-slide img {
+        width: 100%;
+    }
+
+    .nav-toggle {
+        display: block;
+    }
+
+    .hero {
+        top: 50px;
+        font-size: 1rem;
+        line-height: 2.3rem;
+    }
+
+    .hero button {
+        padding: 0.5rem;
+        width: 200px;
+        font-size: 0.5rem;
+        margin-top: 1.5rem;
+    }
+
+    .scrolldown {
+        font-size: 12px;
+        margin-top: 2rem;
+    }
+
+    .scrolldown span {
+        font-size: 20px;
+    }
+
+    .secondsection h1 {
+        font-size: 1.7rem;
+        line-height: 1.7rem;
+    }
+
+    /* Fourth Section Starts here */
+
+    .we-best h1 {
+        font-size: 1.5rem;
+    }
+
+    .fourthsection {
+        flex-wrap: wrap;
+    }
+
+    /* Fourth Section Ends Here */
+
+    /* Sixth Section Starts here */
+
+    .explore-new {
+        padding-left: 2rem;
+    }
+
+    .explore-new h4 {
+        font-size: 10px;
+    }
+
+    .explore-new h1 {
+        font-size: 1.5rem;
+        line-height: 1.8rem;
+    }
+
+
+    .explore-new button {
+        width: 220px;
+        height: 50px;
+        font-size: 15px;
+        margin-top: 2rem;
+    }
+
+
+    /* Sixth Section Ends here */
+
+    .footer-second {
+        display: block;
+    }
+
+    .footer-second .left {
+        width: 100%;
+    }
+
+    .footer-second .right {
+        width: 100%;
+    }
+}
+
+
+@media screen and (max-width:425px) {
+    .my-slide img {
+        width: 100%;
+    }
+
+    .hero {
+        top: 35px;
+        font-size: 0.55rem;
+        line-height: 1.3rem;
+    }
+
+    .hero button {
+        padding: 0.5rem;
+        width: 200px;
+        font-size: 0.8rem;
+        margin-top: 0.3rem;
+    }
+
+    .scrolldown {
+        font-size: 10px;
+        margin-top: 1rem;
+    }
+
+    .scrolldown span {
+        font-size: 10px;
+    }
+
+    .secondsection h1 {
+        font-size: 1.25rem;
+        line-height: 1.3rem;
+    }
+
+    /* Fourth Section Starts Here */
+
+
+    .we-best h1 {
+        font-size: 1rem;
+    }
+
+    .title-goes-container h5 {
+        font-size: 1rem;
+    }
+
+    .title-goes-container p {
+        font-size: 0.6rem;
+        color: #ccc;
+    }
+
+    /* Fourth Section Ends here */
+
+    /* Fifth Section Starts here */
+
+    .fifthsection h4 {
+        font-size: 10px;
+        line-height: 10px;
+        padding-top: 1.5rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .fifthsection h1 {
+        font-size: 20px;
+        line-height: 30px;
+        margin-bottom: 3rem;
+    }
+
+    .test-desc i {
+        margin-bottom: 0.5rem;
+    }
+
+    .test-desc1 {
+        width: 299px;
+        height: 150px;
+        background: rgba(41, 41, 69, 0.5);
+        border-radius: 20px;
+        margin-right: 1rem;
+        margin-bottom: 3rem;
+        padding: 0.5rem;
+        font-size: 10px;
+        font-weight: 300;
+        line-height: 12.8px;
+    }
+
+    .test-desc h2 {
+        padding-top: 1rem;
+    }
+
+    .test-desc1 img {
+        float: right;
+        position: relative;
+        top: -50px;
+        right: -18px;
+        width: 150px;
+        height: 150px;
+    }
+
+    /* Fifth Section Ends here */
+
+    /* Sixth Section Starts here */
+
+    .sixthsection {
+        display: block;
+    }
+
+    .explore-new {
+        width: 100%;
+    }
+
+    .cta-img {
+        width: 100%;
+    }
+
+    /* Sixth Section Ends here */
+
+    /* Footer-Section Start */
+    .footer-first {
+        display: block;
+        padding: 1rem;
+        text-align: center;
+
+    }
+    .footer-first img{
+        width: 12rem;
+        padding-bottom: 1rem;
+    }
+
+    .footer-first .email-search {
+        height: 35px;
+        width: 250px;
+        border-radius: 20px;
+        margin: 2rem auto;
+    }
+
+    .email-search>i {
+        height: 30px;
+        width: 30px;
+        border-radius: 50%;
+        text-align: center;
+        padding: 7px 0;
+        background-color: rgb(30, 88, 222);
+        color: #fff;
+        margin-right: 0.5rem;
+    }
+
+    .footer-second button {
+        width: 200px;
+        height: 75px;
+        border-radius: 100.92px;
+        border: 1.42px;
+        background: linear-gradient(to right, #2a2a3d, #111118);
+
+        color: #fff;
+        font-size: 25.55px;
+        font-weight: 600;
+        line-height: 34.79px;
+        text-align: center;
+        margin-top: 3rem;
+    }
+
+    .footer-second .right {
+
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        margin-top: 2rem;
+    }
+
+    .footer-last {
+        display: block;
+        text-align: center;
+    }
+
+}
+@media screen and (max-width:320px){
+    .newly-release a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    padding: 10px 16px;
+    margin-right: 0.8rem;
+}
+.cardd .card-bottom {
+    font-size: 9px;
+}
+.card-bottom button {
+    color: #fff;
+    background-color: #F68E5F;
+    padding: 2.5px 3.7px;
+    border-radius: 50px;
+    font-size: 0.85rem;
+}
+
+
+}
